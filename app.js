@@ -16,3 +16,5 @@ console.log(keliling(7));
 const cats = require('./cats');
 
 console.log(cats);
+
+// ini adalah project kelas XII RPL 3
