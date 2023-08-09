@@ -18,3 +18,6 @@ const cats = require('./cats');
 console.log(cats);
 
 // ini adalah project kelas XII RPL 3
+
+
+// ini deskripsi dari leptop macbook 
